@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vq8_GOgi)
 # Task Manager REST API with Authentication
 
 ## Overview
@@ -172,4 +173,8 @@ Implement the following routes:
 
 Push your final solution to the GitHub Classroom repository. The project will be automatically evaluated using tests. Ensure all tests pass successfully before submitting.
 
+<<<<<<< HEAD
 Good luck.
+=======
+Good luck.
+>>>>>>> ae5fcd72d5f231be2be8b1f86348456715118b17
